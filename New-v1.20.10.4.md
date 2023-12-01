@@ -1,7 +1,7 @@
 {
 "Title": "#اطلاعیه",
 "Description": "سلام ، نسخه اصلی برنامه دچار مشکلاتی شده و اصلا اجرا نمیشه ، نسخه مود هم به طور شانسی برای بعضیا کار میکنه ، اگر برای شما وصل نمیشه بیا داخل کانال تا مشکل حل شه",
-"Link": "tg://resolve?domain=Vpn_Shield",
+"Link": "tg://resolve?domain=Farsroid_Club",
 "ColorWave": "#FFFF00",
 "Color": "#FFFF00",
 "ColorWaveTwo": "#FFD600",
